@@ -1,0 +1,44 @@
+body {
+	border: solid #ebebe0;
+	margin: 2em;
+	padding: 0.9em;
+	-webkit-box-shadow:0px 8px 12px grey;
+	-moz-box-shadow:0px 8px 12px grey;
+}
+
+h3 {
+	font-size: 34px;
+	margin: 0.1em 0 0.4em;
+	font-family: "Oswald", sans-serif;
+}
+
+.fun-fact {
+    font-style: italic;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.overall {
+	border: solid #ebebe0;
+	margin-top: 0.7em;
+	-webkit-box-shadow:0px 0px 12px grey;
+	-moz-box-shadow:0px 0px 12px grey;
+}
+
+.animal-info {
+    list-style-type: none;
+    font-style: italic;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.brief{
+	font-family: 'Droid Sans', sans-serif;
+}
+
+.habitat,
+.name,
+.length,
+.lifespan {
+	font-weight: 900;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+}
